@@ -1,4 +1,13 @@
+<table>
+<tr>
+<td width="60%" valign="top">
 # Elodie AI Atelier
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="assets/img/zahroniel.png" width="250">
 
 Artificial Intelligence studies, experiments and reflections by **Kael Élodie Whitmore**.
 
