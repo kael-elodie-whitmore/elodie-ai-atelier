@@ -126,4 +126,7 @@ Exploring Artificial Intelligence from academic, professional and human perspect
 
 ## Colaboração
 
+José Roberto Madureira Junior
+<a href="https://github.com/jose-madureira">GitHub</a>
 
+---
