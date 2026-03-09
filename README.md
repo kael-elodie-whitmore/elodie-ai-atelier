@@ -22,7 +22,7 @@ Understanding the foundations of Artificial Intelligence:
 This section focuses on concepts, research notes and educational materials designed to help students and beginners understand how AI systems work.
 <td width="40%" align="center">
 
-<img src="assets/img/kael-elodie-whitmore.png" width="250">
+<img src="assets/img/kael-elodie-whitmore-avatar.png" width="250">
 </td>
 </tr>
 </table>
