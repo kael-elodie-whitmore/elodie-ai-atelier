@@ -23,10 +23,10 @@ Use este prompt quando precisar:
 Autor: Ronildo A Ferreira  
 Versão: 1.0  
 Idioma: pt-BR  
-Nível: Avançado
-Categoria: Educação
-Tipo: Atualização de conteúdo didático
-Última atualização: 2026
+Nível: Avançado  
+Categoria: Educação  
+Tipo: Atualização de conteúdo didático  
+Última atualização: 2026  
 
 
 ---
@@ -64,7 +64,10 @@ Tipos de pesquisa: exploratória, aplicada e bibliográfica.
 
 Tarefa:
 
-Explique brevemente cada tipo de pesquisa e apresente um exemplo simples de cada uma.
+[SUBSTITUA PELA TAREFA QUE A IA DEVE FAZER] 
+
+Exemplo: 
+Explique brevemente cada tipo de pesquisa e apresente um exemplo simples de cada uma. 
 
 ---
 
