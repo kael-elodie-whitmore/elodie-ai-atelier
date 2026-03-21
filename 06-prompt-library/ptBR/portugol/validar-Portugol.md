@@ -2,9 +2,11 @@
 
 ## ✅ Como usar
 
-1 - Copie esse prompt
-2 - Cole aqui na conversa (Chat)
-3 - Substitua {{COLE_AQUI_SEU_CODIGO}} por seu código Portugol
+1. Copie esse prompt
+
+2. Cole na conversa (Chat), por exemplo no ChatGPT
+
+3. Substitua {{COLE_AQUI_SEU_CODIGO}} por seu código Portugol
 
 # Prompt
 

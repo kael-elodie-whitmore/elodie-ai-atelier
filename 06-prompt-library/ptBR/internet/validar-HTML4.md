@@ -4,7 +4,7 @@
 
 1. Copie esse prompt
 
-2. Cole aqui na conversa (Chat)
+2. Cole na conversa (Chat), por exemplo no ChatGPT
 
 3. Substitua [COLE SEU CÓDIGO AQUI] por seu código HTML 
 
