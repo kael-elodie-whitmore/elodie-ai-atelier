@@ -2,9 +2,11 @@
 
 ## ✅ Como usar
 
-1 - Copie esse prompt
-2 - Cole aqui na conversa (Chat)
-3 - Substitua [COLE SEU CÓDIGO AQUI] por seu código HTML
+1. Copie esse prompt
+
+2. Cole aqui na conversa (Chat)
+
+3. Substitua [COLE SEU CÓDIGO AQUI] por seu código HTML
 
 # Prompt IA
 
@@ -26,4 +28,5 @@ Formato da resposta:
 * Sugestão de correção do código(mostrar trecho e sugestão)
 
 HTML para análise:
+
 [COLE SEU CÓDIGO AQUI]
