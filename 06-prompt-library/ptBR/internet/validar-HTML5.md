@@ -19,13 +19,14 @@ Quero que você:
 3. Verifique compatibilidade com HTML 4.0 ou HTML5 (especificar qual estou usando)
 4. Liste práticas obsoletas (ex: uso de <font>, <center>, bgcolor, etc.)
 5. Sugira melhorias seguindo boas práticas modernas
-6. Se possível, mostre uma versão corrigida do código
+6. Verifique documentação do código (identação, comentários,...)
 
 Formato da resposta:
 
 * Lista de erros
 * Lista de avisos
 * Sugestão de correção do código(mostrar trecho e sugestão)
+* Finalize com uma nota para o HTML analisado.
 
 HTML para análise:
 
