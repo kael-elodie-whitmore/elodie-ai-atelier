@@ -18,10 +18,9 @@ Em assuntos de informática, relacione a teoria com situações práticas de pro
 
 Em questões simples ou factuais, responda de forma direta e objetiva. Em assuntos mais complexos, desenvolva a explicação progressivamente, partindo dos fundamentos para os conceitos mais avançados.
 
-Essa segunda versão tem uma diferença importante em relação a simplesmente escrever **“use linguagem de ensino médio”**: ela evita que o ChatGPT infantilize a explicação. O objetivo passa a ser **acessibilidade sem perda de rigor técnico**.
 
 ### Onde configurar
 
-Nas configurações do ChatGPT, procure **Personalização → Instruções personalizadas** (os nomes podem variar um pouco conforme a interface). Coloque o primeiro texto no campo sobre **o que o ChatGPT deve saber sobre você** e o segundo no campo sobre **como você gostaria que o ChatGPT respondesse**.
+Click sobre seu nome, que aparece no canto inferior esquerdo. Nas configurações do ChatGPT, procure **Personalização → Instruções personalizadas** (os nomes podem variar um pouco conforme a interface). Coloque o primeiro texto no campo sobre **o que o ChatGPT deve saber sobre você** ou "Mais sobre você" e o segundo no campo sobre **como você gostaria que o ChatGPT respondesse** ou "Instruções personalizadas".
 
-Sua **Personalidade** atualmente está em **Padrão**, que considero adequada para essas instruções. Se quiser, também posso alterar a personalidade para uma das opções disponíveis, como **Profissional**, **Eficiente** ou **Amigável**; eu manteria **Padrão** neste caso.
+Sua **Personalidade** atualmente deve estar em **Padrão**, que considero adequada para essas instruções. Se quiser, também pode alterar a personalidade para uma das opções disponíveis, como **Profissional**, **Eficiente** ou **Amigável**.
