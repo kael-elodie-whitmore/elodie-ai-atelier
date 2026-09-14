@@ -409,7 +409,48 @@ Assim, seu uso educacional não busca eliminar as diferenças existentes entre o
 
 ---
 
-# 8. Uso inadequado de IA
+## 8. IA, privacidade e proteção de dados
+
+Ao utilizar ferramentas de Inteligência Artificial, o aluno deverá ter atenção às informações que são inseridas nessas ferramentas.
+
+Dados enviados para uma plataforma de IA podem ser processados ou armazenados por serviços externos. Por esse motivo, **não devem ser compartilhados dados pessoais, informações confidenciais ou conteúdos de terceiros sem necessidade e autorização adequada**.
+
+Essa orientação está relacionada aos princípios de proteção de dados pessoais estabelecidos pela **Lei Geral de Proteção de Dados Pessoais (LGPD)**.
+
+Antes de enviar qualquer informação para uma ferramenta de IA, o aluno deverá considerar:
+
+> **Esta informação precisa realmente ser enviada para a IA? Tenho autorização para compartilhá-la?**
+
+Deve-se evitar, por exemplo:
+
+* nomes completos acompanhados de outros dados pessoais;
+* CPF, RG, endereço, telefone ou dados de contato;
+* senhas, credenciais, tokens e chaves de acesso;
+* dados pessoais de colegas, professores ou outras pessoas;
+* fotografias ou documentos pessoais sem autorização;
+* informações médicas ou outros dados pessoais sensíveis;
+* listas de alunos ou informações obtidas em formulários e pesquisas;
+* documentos internos ou informações confidenciais;
+* códigos que contenham senhas, tokens, chaves de API ou outras credenciais.
+
+Quando for necessário utilizar dados para realizar testes, exercícios ou análises com auxílio de IA, deve-se, sempre que possível, utilizar **dados fictícios, anonimizados ou que não permitam identificar pessoas reais**.
+
+### Exemplo
+
+Em vez de enviar:
+
+> “Analise estes dados: João da Silva, CPF [...], telefone [...], endereço [...].”
+
+o aluno poderá utilizar:
+
+> “Analise estes dados fictícios: Usuário 01, idade 17 anos, resposta A.”
+
+O objetivo não é impedir o uso da IA, mas desenvolver também a responsabilidade sobre **quais informações podem ser compartilhadas com essas ferramentas**.
+
+> **Use a IA como apoio. Proteja os seus dados e os dados de outras pessoas.**
+
+---
+# 9. Uso inadequado de IA
 
 Será considerado inadequado utilizar IA para substituir a participação intelectual ou técnica esperada dos integrantes.
 
@@ -440,7 +481,7 @@ prints falsos do sistema
 
 ---
 
-# 9. Código produzido com auxílio de IA
+# 10. Código produzido com auxílio de IA
 
 Em **“atividade”** de Informática, IA poderá auxiliar na programação.
 
@@ -462,7 +503,7 @@ A banca poderá selecionar trechos do código para discussão durante a apresent
 
 ---
 
-# 10. Como a banca verificará autoria e domínio
+# 11. Como a banca verificará autoria e domínio
 
 A avaliação não será baseada apenas na aparência do texto ou do código.
 
@@ -542,7 +583,7 @@ A intenção dessas perguntas não é descobrir se um texto “parece IA”.
 É verificar se existe **domínio sobre a "Atividade" apresentado**.
 
 ---
-## 11. Responsabilidade individual
+## 12. Responsabilidade individual
 
 Quando a **atividade** for realizada em dupla ou grupo, a divisão de tarefas é permitida e esperada. No entanto, essa divisão **não elimina a responsabilidade individual de cada estudante** sobre a atividade apresentada.
 
@@ -564,7 +605,7 @@ A divisão de tarefas não deverá ser utilizada como justificativa para o desco
 
 ---
 
-## 12. Declaração de IA e qualidade da atividade
+## 13. Declaração de IA e qualidade da atividade
 
 A **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL** deverá estar presente na **atividade**, tanto quando houver uso de IA quanto quando **nenhuma ferramenta de IA tiver sido utilizada**.
 
@@ -594,7 +635,7 @@ A avaliação deverá considerar a **atividade efetivamente realizada, as evidê
 
 ---
 
-## 13. Declaração de uso de Inteligência Artificial desta Política
+## 14. Declaração de uso de Inteligência Artificial desta Política
 
 Esta Política também está sujeita aos princípios de **transparência, responsabilidade e verificação** estabelecidos neste documento.
 
