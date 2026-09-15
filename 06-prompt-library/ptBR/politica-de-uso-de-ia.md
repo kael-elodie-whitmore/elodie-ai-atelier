@@ -134,6 +134,7 @@ Conforme os objetivos de aprendizagem, a banca poderá determinar **quando, onde
 > **Em caso de orientação específica, prevalecerão as regras estabelecidas pela banca para cada atividade.**
 
 ---
+
 ## 4. O que deve ser declarado
 
 O **aluno deverá declarar se houve ou não utilização de ferramentas de Inteligência Artificial durante o desenvolvimento da atividade**.
