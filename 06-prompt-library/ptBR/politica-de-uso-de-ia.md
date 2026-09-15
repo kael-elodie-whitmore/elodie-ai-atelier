@@ -1,5 +1,8 @@
 # Política de Uso de Inteligência Artificial em Atividades Acadêmicas
 
+**Versão:** 1.03  
+**Revisão:** 14/09/2026
+
 ## Convenções utilizadas neste documento
 
 Para tornar esta Política mais clara, objetiva e aplicável a diferentes disciplinas, modalidades de atividade e formas de avaliação, alguns termos serão utilizados com significado mais amplo ao longo do documento.
@@ -8,7 +11,7 @@ Para tornar esta Política mais clara, objetiva e aplicável a diferentes discip
 
 Nesta Política, o termo **aluno** representa o responsável pela realização da atividade.
 
-Conforme a modalidade definida pelo professor, o termo poderá representar **um estudante, uma dupla ou um grupo de estudantes**.
+Conforme a modalidade definida pelo professor, o termo poderá representar **um aluno, uma dupla ou um grupo de alunos**.
 
 Assim, uma orientação como:
 
@@ -72,9 +75,9 @@ O aluno é responsável por compreender, verificar e ser capaz de explicar os co
 
 ---
 
-# 2. Princípios para o uso de IA
+## 2. Princípios para o uso de IA
 
-O uso de Inteligência Artificial na **atividade** deverá seguir quatro princípios:
+O uso de Inteligência Artificial na **atividade** deverá seguir cinco princípios:
 
 **Transparência:** o aluno deve informar quando, onde e para qual finalidade utilizou IA.
 
@@ -82,7 +85,9 @@ O uso de Inteligência Artificial na **atividade** deverá seguir quatro princí
 
 **Verificação:** informações, referências, códigos, cálculos e outros resultados fornecidos por IA devem ser verificados antes de serem utilizados.
 
-**Domínio:** cada **aluno** deve compreender a **atividade** como um todo e ser capaz de explicar seus objetivos, desenvolvimento, principais decisões e resultados, e não somente a parte pela qual foi diretamente responsável. Espera-se, entretanto, maior domínio sobre as atividades que executou diretamente.
+**Domínio:** cada **aluno** deve compreender a **atividade** como um todo e ser capaz de explicar seus objetivos, desenvolvimento, principais decisões e resultados, e não somente a parte pela qual foi diretamente responsável. Espera-se, entretanto, maior domínio sobre as **partes da atividade em que participou diretamente**.
+
+**Proteção:** o aluno deverá preservar dados pessoais, informações confidenciais, credenciais e conteúdos de terceiros ao utilizar ferramentas de IA, compartilhando apenas as informações necessárias e adequadas à atividade.
 
 Uma resposta como:
 
@@ -92,11 +97,11 @@ Uma resposta como:
 
 > “Esta parte não fui eu quem fez.”
 
-não elimina a responsabilidade do **estudante**.
+não elimina a responsabilidade do **aluno**.
 
 ---
 
-# 3. O que é permitido
+## 3. O que é permitido
 
 A IA poderá ser utilizada como ferramenta de apoio, por exemplo, para:
 
@@ -119,22 +124,31 @@ Porém, **"permitido" não significa automaticamente "correto"**.
 
 O aluno deve analisar o resultado antes de utilizá-lo.
 
+### Orientações específicas da atividade
+
+As permissões estabelecidas nesta Política não substituem as orientações específicas fornecidas pela **banca** para cada **atividade**.
+
+Conforme os objetivos de aprendizagem, a banca poderá determinar **quando, onde e para quais finalidades a IA poderá ou não ser utilizada**.
+
+> Assim, uma utilização normalmente permitida por esta Política poderá ser restringida em determinada atividade quando sua realização sem auxílio de IA fizer parte dos objetivos de aprendizagem.
+>
+> **Em caso de orientação específica, prevalecerão as regras estabelecidas pela banca para cada atividade.**
+
 ---
+## 4. O que deve ser declarado
 
-# 4. O que deve ser declarado
+O **aluno deverá declarar se houve ou não utilização de ferramentas de Inteligência Artificial durante o desenvolvimento da atividade**.
 
-O grupo deverá declarar o uso de ferramentas de **IA generativa** realizado durante o desenvolvimento da **“Atividade”**.
-
-A declaração deverá informar, no mínimo:
+Quando houver utilização de IA, a declaração deverá informar, no mínimo:
 
 1. **qual ferramenta foi utilizada;**
-2. **em qual etapa ou parte do trabalho foi utilizada;**
+2. **em qual etapa ou parte da atividade foi utilizada;**
 3. **para qual finalidade foi utilizada;**
-4. **como o grupo verificou ou validou o resultado.**
+4. **como o aluno verificou ou validou o resultado.**
 
 Quando possível, também poderá ser informado o modelo ou versão utilizada.
 
-### Exemplo de apresentação da declaração
+### Como apresentar a declaração
 
 > **NÃO ALTERAR O TÍTULO “DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL”.**
 
@@ -150,12 +164,6 @@ Sugestões de localização:
 | Projeto com documentação no GitHub | No arquivo `README.md` ou em arquivo específico indicado pela **banca** |
 | Outros formatos                    | Em local definido pela **banca**                                        |
 
-A declaração deverá informar, no mínimo:
-
-* **Ferramenta:** qual ferramenta de IA foi utilizada;
-* **Etapa:** em qual etapa ou parte da atividade foi utilizada;
-* **Finalidade:** para que a ferramenta foi utilizada;
-* **Validação:** como o aluno analisou, verificou ou testou o resultado obtido.
 
 #### Exemplo em artigo, relatório, README ou documento
 
@@ -202,11 +210,11 @@ A declaração deve ser **específica**.
 
 Evite:
 
-> “Foi utilizada Inteligência Artificial durante o desenvolvimento do trabalho.”
+> “Foi utilizada Inteligência Artificial durante o desenvolvimento da atividade.”
 
 Prefira:
 
-> “O ChatGPT foi utilizado durante o desenvolvimento do produto para auxiliar na identificação de erros em funções PHP. As sugestões foram analisadas pelos integrantes e o código resultante foi testado antes de sua utilização.”
+> “O ChatGPT foi utilizado durante o desenvolvimento do produto para auxiliar na identificação de erros em funções PHP. As sugestões foram analisadas pelo aluno e o código resultante foi testado antes de sua utilização.”
 
 ### Atividades que possuem Metodologia
 
@@ -228,7 +236,7 @@ O aluno deverá substituir a expressão “**desta atividade**” pelo termo cor
 
 ---
 
-# 5. IA não substitui fonte de pesquisa
+## 5. IA não substitui fonte de pesquisa
 
 Este ponto deve receber atenção especial.
 
@@ -258,15 +266,15 @@ Se uma IA informar:
 
 > “Segundo determinado autor...”
 
-o grupo deverá procurar a publicação original e verificar se o autor realmente fez aquela afirmação.
+o aluno deverá procurar a publicação original e verificar se o autor realmente fez aquela afirmação.
 
-**Referências fornecidas por IA nunca devem ser incluídas automaticamente na **“Atividade”** sem verificação.**
+**Referências fornecidas por IA nunca devem ser incluídas automaticamente na atividade sem verificação.**
 
 ---
 
-# 6. IA e referências são coisas diferentes
+## 6. IA e referências são coisas diferentes
 
-A seção **REFERÊNCIAS** continua sendo destinada às fontes utilizadas para fundamentar o trabalho.
+A seção **REFERÊNCIAS** continua sendo destinada às fontes utilizadas para fundamentar a atividade.
 
 Por exemplo:
 
@@ -288,25 +296,25 @@ Portanto:
 ```text
 REFERÊNCIAS
        ↓
-Quais fontes sustentam a **“Atividade”**?
+Quais fontes sustentam a atividade?
 
 DECLARAÇÃO DE IA
        ↓
-Como a IA participou da **“Atividade”**?
+Como a IA participou da atividade?
 ```
 
 ---
 
 
-# 7. Inteligência Artificial como apoio à aprendizagem
+## 7. Inteligência Artificial como apoio à aprendizagem
 
-Os estudantes de uma mesma turma podem possuir diferentes conhecimentos prévios, experiências, dificuldades, interesses e formas de aprender. Além das aulas, alguns estudam por livros, vídeos, cursos, documentação, projetos pessoais e outras fontes, desenvolvendo conhecimentos em ritmos diferentes.
+Os alunos de uma mesma turma podem possuir diferentes conhecimentos prévios, experiências, dificuldades, interesses e formas de aprender. Além das aulas, alguns estudam por livros, vídeos, cursos, documentação, projetos pessoais e outras fontes, desenvolvendo conhecimentos em ritmos diferentes.
 
-Diante dessa realidade, esta Política reconhece a Inteligência Artificial como uma possível **ferramenta de apoio à aprendizagem**, capaz de auxiliar o estudante a compreender, revisar, praticar e aprofundar os conteúdos trabalhados nas aulas.
+Diante dessa realidade, esta Política reconhece a Inteligência Artificial como uma possível **ferramenta de apoio à aprendizagem**, capaz de auxiliar o aluno a compreender, revisar, praticar e aprofundar os conteúdos trabalhados nas aulas.
 
-A IA não deve ser entendida apenas como uma ferramenta para **produzir respostas ou realizar atividades**. Seu maior potencial educacional está em ajudar o estudante a **aprender aquilo que ainda não consegue fazer sozinho**.
+A IA não deve ser entendida apenas como uma ferramenta para **produzir respostas ou realizar atividades**. Seu maior potencial educacional está em ajudar o aluno a **aprender aquilo que ainda não consegue fazer sozinho**.
 
-Por exemplo, o estudante poderá utilizar uma IA para:
+Por exemplo, o aluno poderá utilizar uma IA para:
 
 * solicitar uma nova explicação sobre um conteúdo que não compreendeu;
 * pedir que um conceito seja explicado de maneira mais simples ou por meio de exemplos;
@@ -320,27 +328,31 @@ Por exemplo, o estudante poderá utilizar uma IA para:
 * relacionar um conteúdo estudado com outros conhecimentos;
 * explorar conteúdos mais avançados quando já dominar aquilo que está sendo trabalhado pela turma.
 
-Dessa maneira, dois estudantes podem utilizar a mesma ferramenta de formas diferentes.
+Dessa maneira, dois alunos podem utilizar a mesma ferramenta de formas diferentes.
 
-Um estudante que esteja com dificuldades poderá perguntar:
+Um aluno que esteja com dificuldades poderá perguntar:
 
 > “Não entendi como funciona uma estrutura de repetição `while` em C++. Explique desde o início, utilizando um exemplo simples e depois proponha um exercício para eu tentar resolver.”
 
-Outro estudante, que já compreendeu o conteúdo básico, poderá perguntar:
+Outro aluno, que já compreendeu o conteúdo básico, poderá perguntar:
 
 > “Já compreendi o funcionamento do `while`. Mostre situações em que seria melhor utilizar `while` em vez de `for` e proponha um problema mais difícil para eu resolver.”
 
 Os dois continuam estudando o mesmo conteúdo, porém recebem apoio compatível com suas necessidades naquele momento.
 
-## IA como tutora, não como substituta
+### Aprender é o seu caminho
 
-Existe uma diferença fundamental entre **usar IA para aprender** e **usar IA para evitar aprender**.
+> **Use a IA como apoio. Compreender continua sendo sua tarefa.**
+
+### Terceirização da atividade
+
+Existe uma diferença fundamental entre **utilizar a IA como apoio à aprendizagem** e **utilizá-la para terceirizar a realização da atividade**.
 
 Considere uma atividade de programação.
 
 ### Situação A
 
-O estudante solicita:
+O aluno solicita:
 
 > “Faça este programa para mim.”
 
@@ -350,7 +362,7 @@ Mesmo que o programa funcione, pouco conhecimento pode ter sido construído dura
 
 ### Situação B
 
-O estudante tenta desenvolver o programa e encontra uma dificuldade. Então solicita:
+O aluno tenta desenvolver o programa e encontra uma dificuldade. Então solicita:
 
 > “Estou tentando resolver este exercício. Não escreva o programa completo. Explique por que minha estrutura de repetição não está funcionando e me dê uma pista para que eu possa corrigir.”
 
@@ -358,13 +370,13 @@ Depois da explicação, modifica seu código, testa novamente e procura compreen
 
 Nos dois casos houve utilização de IA, mas **o papel da ferramenta no processo de aprendizagem foi completamente diferente**.
 
-Por isso, esta Política incentiva o uso da IA como **apoio, tutora, ferramenta de investigação e parceira para o desenvolvimento do raciocínio**, e não simplesmente como uma fornecedora de respostas prontas.
+Por isso, esta Política incentiva o uso da IA como ferramenta de **apoio à aprendizagem, investigação e desenvolvimento do raciocínio**, e não simplesmente como fornecedora de respostas prontas.
 
-## O estudante continua no controle
+### O aluno continua no controle
 
 As ferramentas de IA podem apresentar informações incorretas, incompletas, desatualizadas ou inadequadas ao problema apresentado.
 
-Portanto, o estudante não deve assumir que uma resposta está correta apenas porque foi produzida por uma IA.
+Portanto, o aluno não deve assumir que uma resposta está correta apenas porque foi produzida por uma IA.
 
 Um processo adequado de utilização pode seguir este princípio:
 
@@ -372,11 +384,11 @@ Um processo adequado de utilização pode seguir este princípio:
 
 A etapa final é especialmente importante.
 
-Se o estudante utilizou uma informação, solução, código ou ideia em sua **atividade**, deverá ser capaz de explicá-la.
+Se o aluno utilizou uma informação, solução, código ou ideia em sua **atividade**, deverá ser capaz de explicá-la.
 
-> **A IA pode ajudar o estudante a chegar à resposta. A aprendizagem acontece quando ele passa a compreender essa resposta e consegue utilizá-la por conta própria.**
+> **A IA pode ajudar o aluno a chegar à resposta. A aprendizagem acontece quando ele passa a compreender essa resposta e consegue utilizá-la por conta própria.**
 
-## A IA não substitui as outras formas de aprender
+### A IA não substitui as outras formas de aprender
 
 O incentivo ao uso de Inteligência Artificial não significa abandonar:
 
@@ -395,27 +407,29 @@ A IA deve integrar esse conjunto de recursos.
 
 Em determinadas situações, consultar a documentação oficial será mais adequado. Em outras, conversar com o professor ou com colegas será mais produtivo. Em outras, experimentar diferentes soluções poderá proporcionar maior aprendizagem.
 
-O estudante deverá desenvolver também a capacidade de decidir **quando utilizar IA, para que utilizá-la e quando outra ferramenta ou fonte é mais adequada**.
+O aluno deverá desenvolver também a capacidade de decidir **quando utilizar IA, para que utilizá-la e quando outra ferramenta ou fonte é mais adequada**.
 
-## O objetivo não é que todos aprendam da mesma maneira
+### O objetivo não é que todos aprendam da mesma maneira
 
-Uma turma não precisa ser formada por estudantes que saibam exatamente as mesmas coisas, no mesmo momento e pelo mesmo caminho.
+Uma turma não precisa ser formada por alunos que saibam exatamente as mesmas coisas, no mesmo momento e pelo mesmo caminho.
 
 Entretanto, existem conhecimentos e competências fundamentais que todos deverão desenvolver.
 
-A IA pode auxiliar o estudante a construir o caminho entre aquilo que **já sabe** e aquilo que **precisa ou deseja aprender**, permitindo revisar conteúdos básicos ou avançar para novos desafios.
+A IA pode auxiliar o aluno a construir o caminho entre aquilo que **já sabe** e aquilo que **precisa ou deseja aprender**, permitindo revisar conteúdos básicos ou avançar para novos desafios.
 
-Assim, seu uso educacional não busca eliminar as diferenças existentes entre os estudantes, mas oferecer **mais possibilidades para que cada um continue aprendendo e evoluindo a partir de seu nível atual**.
+Assim, seu uso educacional não busca eliminar as diferenças existentes entre os alunos, mas oferecer **mais possibilidades para que cada um continue aprendendo e evoluindo a partir de seu nível atual**.
 
 ---
 
 ## 8. IA, privacidade e proteção de dados
 
-Ao utilizar ferramentas de Inteligência Artificial, o aluno deverá ter atenção às informações que são inseridas nessas ferramentas.
+Ao utilizar ferramentas de Inteligência Artificial, o aluno deverá ter atenção às **informações e aos dados que são enviados ou inseridos nessas ferramentas**.
 
-Dados enviados para uma plataforma de IA podem ser processados ou armazenados por serviços externos. Por esse motivo, **não devem ser compartilhados dados pessoais, informações confidenciais ou conteúdos de terceiros sem necessidade e autorização adequada**.
+Dados enviados para uma plataforma de IA podem ser processados ou armazenados por serviços externos. Por esse motivo, o aluno deverá avaliar previamente se essas informações podem ser compartilhadas e se são realmente necessárias para a finalidade pretendida.
 
-Essa orientação está relacionada aos princípios de proteção de dados pessoais estabelecidos pela **Lei Geral de Proteção de Dados Pessoais (LGPD)**.
+> **Dados pessoais, informações confidenciais ou conteúdos de terceiros não devem ser compartilhados sem necessidade e autorização adequada.**
+
+Essa orientação está relacionada aos princípios de proteção de dados pessoais estabelecidos pela **Lei Geral de Proteção de Dados Pessoais — LGPD (Lei nº 13.709/2018)**.
 
 Antes de enviar qualquer informação para uma ferramenta de IA, o aluno deverá considerar:
 
@@ -424,7 +438,7 @@ Antes de enviar qualquer informação para uma ferramenta de IA, o aluno deverá
 Deve-se evitar, por exemplo:
 
 * nomes completos acompanhados de outros dados pessoais;
-* CPF, RG, endereço, telefone ou dados de contato;
+* CPF, RG, endereço, telefone ou outros dados de contato;
 * senhas, credenciais, tokens e chaves de acesso;
 * dados pessoais de colegas, professores ou outras pessoas;
 * fotografias ou documentos pessoais sem autorização;
@@ -433,11 +447,11 @@ Deve-se evitar, por exemplo:
 * documentos internos ou informações confidenciais;
 * códigos que contenham senhas, tokens, chaves de API ou outras credenciais.
 
-Quando for necessário utilizar dados para realizar testes, exercícios ou análises com auxílio de IA, deve-se, sempre que possível, utilizar **dados fictícios, anonimizados ou que não permitam identificar pessoas reais**.
+### Utilização de dados em atividades
 
-### Exemplo
+Quando for necessário utilizar dados em testes, exercícios, exemplos ou análises com auxílio de IA, deve-se, sempre que possível, utilizar **dados fictícios, anonimizados ou que não permitam identificar pessoas reais**.
 
-Em vez de enviar:
+Por exemplo, em vez de enviar:
 
 > “Analise estes dados: João da Silva, CPF [...], telefone [...], endereço [...].”
 
@@ -445,26 +459,36 @@ o aluno poderá utilizar:
 
 > “Analise estes dados fictícios: Usuário 01, idade 17 anos, resposta A.”
 
-O objetivo não é impedir o uso da IA, mas desenvolver também a responsabilidade sobre **quais informações podem ser compartilhadas com essas ferramentas**.
+### Pesquisas, questionários e entrevistas
 
-> **Use a IA como apoio. Proteja os seus dados e os dados de outras pessoas.**
+Atividades como **TCC, pesquisas, questionários e entrevistas** podem envolver informações fornecidas por pessoas reais e, por isso, exigem atenção especial.
+
+Dados coletados nessas atividades **não deverão ser enviados a ferramentas de IA quando permitirem a identificação dos participantes**, salvo quando houver autorização e condições adequadas para esse tratamento.
+
+Sempre que possível, os dados deverão ser **anonimizados antes de serem utilizados com ferramentas de IA**, removendo informações que permitam identificar direta ou indiretamente as pessoas envolvidas.
+
+A autorização para participar de uma pesquisa ou responder a um questionário **não deve ser entendida automaticamente como autorização para enviar os dados coletados a uma ferramenta de IA**. O aluno deverá observar as orientações estabelecidas pela **banca** para a atividade.
+
+O objetivo dessas orientações não é impedir o uso da IA, mas desenvolver também a responsabilidade sobre **quais informações podem ser compartilhadas, por que precisam ser compartilhadas e como os dados de outras pessoas devem ser protegidos**.
+
+> **Use a IA como apoio. Proteja seus dados e os dados de outras pessoas.**
 
 ---
-# 9. Uso inadequado de IA
+## 9. Uso inadequado de IA
 
-Será considerado inadequado utilizar IA para substituir a participação intelectual ou técnica esperada dos integrantes.
+Será considerado inadequado utilizar IA para substituir a participação intelectual ou técnica esperada do **aluno**.
 
 São exemplos:
 
-* entregar textos gerados por IA como se tivessem sido elaborados integralmente pelo grupo;
+* entregar textos gerados por IA como se tivessem sido elaborados integralmente pelo aluno;
 * utilizar informações fornecidas pela IA sem verificá-las;
 * inserir referências bibliográficas inexistentes ou não consultadas;
-* apresentar códigos que nenhum integrante consegue explicar;
-* apresentar análises ou conclusões produzidas pela IA sem análise crítica do grupo;
+* apresentar códigos que nenhum aluno consegue explicar;
+* apresentar análises ou conclusões produzidas pela IA sem análise crítica do aluno;
 * utilizar IA para fabricar resultados de testes, pesquisas, entrevistas ou experimentos;
 * inventar dados;
 * ocultar intencionalmente uso relevante de IA;
-* atribuir à IA a responsabilidade por erros presentes no trabalho.
+* atribuir à IA a responsabilidade por erros presentes na atividade.
 
 Especialmente grave será a **fabricação de evidências**.
 
@@ -481,13 +505,13 @@ prints falsos do sistema
 
 ---
 
-# 10. Código produzido com auxílio de IA
+## 10. Código produzido com auxílio de IA
 
-Em **“atividade”** de Informática, IA poderá auxiliar na programação.
+Em **atividades de Informática**, a IA poderá auxiliar na programação.
 
 Isso não significa que seja aceitável simplesmente copiar um programa produzido por IA.
 
-Se um trecho de código fizer parte do produto, o grupo deverá ser capaz de explicar:
+Se um trecho de código fizer parte do produto, o aluno deverá ser capaz de explicar:
 
 * qual é sua finalidade;
 * como funciona;
@@ -495,15 +519,15 @@ Se um trecho de código fizer parte do produto, o grupo deverá ser capaz de exp
 * qual resultado produz;
 * como foi integrado ao sistema;
 * como foi testado;
-* quais alterações foram realizadas pelo grupo.
+* quais alterações foram realizadas pelo aluno.
 
 A banca poderá selecionar trechos do código para discussão durante a apresentação.
 
-> **Código que funciona não demonstra, sozinho, aprendizagem. O grupo precisa compreender a solução que está apresentando.**
+> **Código que funciona não demonstra, sozinho, aprendizagem. O aluno precisa compreender a solução que está apresentando.**
 
 ---
 
-# 11. Como a banca verificará autoria e domínio
+## 11. Como a banca verificará autoria e domínio
 
 A avaliação não será baseada apenas na aparência do texto ou do código.
 
@@ -511,7 +535,7 @@ A **banca** poderá considerar um **conjunto de evidências**.
 
 ### Artigo
 
-Será observado se o grupo:
+Será observado se o aluno:
 
 * compreende aquilo que escreveu;
 * consegue explicar conceitos;
@@ -521,7 +545,7 @@ Será observado se o grupo:
 
 ### Produto
 
-O grupo deverá demonstrar:
+O aluno deverá demonstrar:
 
 * funcionamento;
 * decisões técnicas;
@@ -556,7 +580,7 @@ Eles devem, sempre que possível, representar etapas reais do desenvolvimento.
 
 ### Apresentação e arguição
 
-**Arguição:** momento em que a **banca** realiza perguntas ao **estudante** sobre a **atividade**, com o objetivo de verificar sua participação, compreensão e domínio sobre o que foi desenvolvido e apresentado.
+**Arguição:** momento em que a **banca** realiza perguntas ao **aluno** sobre a **atividade**, com o objetivo de verificar sua participação, compreensão e domínio sobre o que foi desenvolvido e apresentado.
 
 Durante a apresentação, a **banca** poderá fazer perguntas como:
 
@@ -580,14 +604,14 @@ Durante a apresentação, a **banca** poderá fazer perguntas como:
 
 A intenção dessas perguntas não é descobrir se um texto “parece IA”.
 
-É verificar se existe **domínio sobre a "Atividade" apresentado**.
+É verificar se existe **domínio sobre a atividade apresentada**.
 
 ---
 ## 12. Responsabilidade individual
 
-Quando a **atividade** for realizada em dupla ou grupo, a divisão de tarefas é permitida e esperada. No entanto, essa divisão **não elimina a responsabilidade individual de cada estudante** sobre a atividade apresentada.
+Quando a **atividade** for realizada em dupla ou grupo, a divisão de tarefas é permitida e esperada. No entanto, essa divisão **não elimina a responsabilidade individual de cada aluno** sobre a atividade apresentada.
 
-Cada **estudante** deverá compreender a **atividade como um todo**, incluindo seus aspectos fundamentais, como:
+Cada **aluno** deverá compreender a **atividade como um todo**, incluindo seus aspectos fundamentais, como:
 
 * objetivo e proposta;
 * processo de desenvolvimento;
@@ -597,7 +621,7 @@ Cada **estudante** deverá compreender a **atividade como um todo**, incluindo s
 * resultados obtidos;
 * conclusões apresentadas.
 
-Espera-se maior domínio sobre as partes em que o estudante participou diretamente, sendo necessário que consiga explicar **o que fez, como fez, por que fez e como verificou o resultado**.
+Espera-se maior domínio sobre as partes em que o aluno participou diretamente, sendo necessário que consiga explicar **o que fez, como fez, por que fez e como verificou o resultado**.
 
 Durante a **arguição**, a banca poderá direcionar perguntas a qualquer integrante para verificar sua compreensão e participação na atividade.
 
@@ -613,7 +637,7 @@ Quando não houver uso, o aluno deverá declarar explicitamente:
 
 > **DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL**
 >
-> O aluno declara que não utilizou ferramentas de Inteligência Artificial generativa durante a realização desta atividade.
+> O aluno declara que não utilizou ferramentas de Inteligência Artificial durante a realização desta atividade.
 
 A declaração tem como objetivo garantir **transparência sobre o processo de desenvolvimento**. Entretanto, declarar ou não o uso de IA não determina, por si só, a qualidade da atividade.
 
@@ -623,13 +647,15 @@ Por exemplo:
 
 A declaração informa como a IA foi utilizada, mas não demonstra que os objetivos de aprendizagem da **atividade** foram atingidos. O aluno continua responsável por compreender, verificar e conseguir explicar aquilo que apresenta.
 
+**A declaração de um uso inadequado de IA não torna esse uso adequado.**
+
 Da mesma maneira:
 
 > “Não utilizamos IA.”
 
 não representa, por si só, maior qualidade, autoria ou domínio sobre a atividade.
 
-A avaliação deverá considerar a **atividade efetivamente realizada, as evidências de seu processo de desenvolvimento e o conhecimento demonstrado pelos estudantes**.
+A avaliação deverá considerar a **atividade efetivamente realizada, as evidências de seu processo de desenvolvimento e o conhecimento demonstrado pelos alunos**.
 
 > **Declarar o uso de IA demonstra transparência. Declarar que não utilizou IA também. Em ambos os casos, a qualidade e o domínio da atividade deverão ser demonstrados pelo aluno.**
 
@@ -637,20 +663,33 @@ A avaliação deverá considerar a **atividade efetivamente realizada, as evidê
 
 ## 14. Declaração de uso de Inteligência Artificial desta Política
 
-Esta Política também está sujeita aos princípios de **transparência, responsabilidade e verificação** estabelecidos neste documento.
+Esta Política também está sujeita aos princípios de **transparência, responsabilidade, verificação, domínio e proteção** estabelecidos neste documento.
 
 Para sua elaboração, foi utilizada ferramenta de Inteligência Artificial como apoio à organização, revisão e desenvolvimento do texto.
 
-## DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
+### DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
 
-| Ferramenta | Etapa           | Finalidade                                                                                                 | Validação                                                                                  |
-| ---------- | --------------- | ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| ChatGPT    | Planejamento    | Auxílio na organização da estrutura e dos assuntos abordados na Política                                   | Estrutura analisada e definida pelo autor responsável pelo documento                       |
-| ChatGPT    | Desenvolvimento | Auxílio na elaboração, reformulação e organização de trechos do texto                                      | Conteúdo analisado, discutido, modificado e aprovado pelo autor responsável                |
-| ChatGPT    | Revisão         | Auxílio na clareza, coerência e adequação da linguagem                                                     | Texto revisado pelo autor responsável                                                      |
-
+| Ferramenta | Etapa | Finalidade | Validação |
+| ---------- |------ | ---------- | --------- |
+| ChatGPT | Planejamento | Auxílio na organização da estrutura e dos assuntos abordados na Política | Estrutura analisada e definida pelo autor responsável pelo documento |
+| ChatGPT    | Desenvolvimento | Auxílio na elaboração, reformulação e organização de trechos do texto                                      | Conteúdo analisado, discutido, modificado e aprovado pelo autor responsável |
+| ChatGPT    | Revisão | Auxílio na clareza, coerência e adequação da linguagem  | Texto revisado pelo autor responsável |
+| ChatGPT    | Pesquisa | Auxílio na localização e análise de documentos relacionados ao uso responsável de IA, integridade acadêmica e proteção de dados | Informações verificadas nas publicações e fontes oficiais antes de sua incorporação à Política |
 
 O conteúdo final, as regras adotadas e as decisões sobre sua aplicação são de responsabilidade do **autor responsável pela Política**. As sugestões fornecidas pela ferramenta de IA foram analisadas e, quando necessário, modificadas antes de sua incorporação ao documento.
+
+## Fontes consultadas
+
+Para a elaboração e revisão desta Política foram consultados documentos oficiais e materiais relacionados à proteção de dados, integridade, ética e uso responsável da Inteligência Artificial na educação e na pesquisa.
+
+BRASIL. **Lei nº 13.709, de 14 de agosto de 2018**. Lei Geral de Proteção de Dados Pessoais (LGPD). Brasília, DF: Presidência da República, 2018. Disponível em: [Lei nº 13.709/2018 — LGPD](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm). Acesso em: 14 set. 2026.
+
+CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO (CNPq). **Portaria CNPq nº 2.664, de 6 de março de 2026**. Institui a Política de Integridade na Atividade Científica do CNPq. Brasília, DF: CNPq, 2026. Disponível em: [Política de Integridade na Atividade Científica — CNPq](https://www.gov.br/cnpq/pt-br/composicao/comissao-de-integridade/documentos). Acesso em: 14 set. 2026.
+
+MIAO, Fengchun; HOLMES, Wayne. **Guia para a IA generativa na educação e na pesquisa**. Paris: UNESCO, 2023. Disponível em: [Guia para a IA generativa na educação e na pesquisa — UNESCO](https://www.unesco.org/pt/articles/guia-para-ia-generativa-na-educacao-e-na-pesquisa). Acesso em: 14 set. 2026.
+
+UNESCO. **Recomendação sobre a Ética da Inteligência Artificial**. Paris: UNESCO, 2022. Aprovada em 23 de novembro de 2021. Disponível em: [Recomendação sobre a Ética da Inteligência Artificial — UNESCO](https://unesdoc.unesco.org/in/documentViewer.xhtml?ark=%2Fark%3A%2F48223%2Fpf0000381137_por%2FPDF%2F381137por.pdf&file=%2Fin%2Frest%2FannotationSVC%2FDownloadWatermarkedAttachment%2Fattach_import_9946263c-f568-4674-8cd0-154ab58eba98%3F_%3D381137por.pdf&id=p%3A%3Ausmarcdef_0000381137_por&locale=en&multi=true&v=2.1.196). Acesso em: 14 set. 2026.
+
 
 ## Licença
 
@@ -666,7 +705,7 @@ Esta licença permite **copiar, compartilhar, adaptar e modificar** este materia
 
 **Licença:** Creative Commons CC BY-NC-SA 4.0
 
-[Creative Commons — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br?utm_source=chatgpt.com)
+[Creative Commons — CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.pt-br)
 
 > A licença aplica-se ao conteúdo original deste documento. Materiais de terceiros eventualmente citados, reproduzidos ou referenciados permanecem sujeitos às respectivas licenças e direitos autorais.
 
