@@ -44,7 +44,6 @@ Assim, uma regra como:
 
 aplica-se a qualquer uma das modalidades abrangidas por esta Política.
 
-
 ### Uso do termo “banca”
 
 Nesta Política, o termo **banca** será utilizado para representar a pessoa ou o conjunto de pessoas responsáveis por **orientar, acompanhar, analisar ou avaliar uma atividade**.
