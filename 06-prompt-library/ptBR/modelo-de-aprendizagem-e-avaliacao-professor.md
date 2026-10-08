@@ -558,7 +558,7 @@ A análise conjunta dessas dimensões permite ao professor observar diferentes a
 
 O objetivo não é transformar M1, M2 e M3 em uma fórmula automática de cálculo, mas utilizá-las como **fontes complementares de evidências sobre a aprendizagem**.
 
-## 7. O laboratório como ambiente de aprendizagem e trabalho
+## 6. O laboratório como ambiente de aprendizagem e trabalho
 
 O laboratório deverá ser compreendido simultaneamente como **sala de aula, espaço de experimentação, ambiente de desenvolvimento de projetos e espaço de preparação para práticas de trabalho**.
 
@@ -591,7 +591,7 @@ O aluno deverá compreender progressivamente que suas escolhas durante o períod
 
 ---
 
-## 8. Papel do professor
+## 7. Papel do professor
 
 O professor permanece responsável pelo planejamento, pela organização, pela condução e pela avaliação do processo de aprendizagem.
 
@@ -633,7 +633,7 @@ O objetivo da intervenção não é simplesmente fazer o aluno chegar à respost
 
 ---
 
-## 9. Papel do aluno
+## 8. Papel do aluno
 
 O aluno deverá assumir participação ativa no processo de aprendizagem.
 
@@ -672,7 +672,7 @@ A ausência dessas evidências limita a possibilidade de o professor identificar
 
 ---
 
-## 10. Níveis de aprendizagem
+## 9. Níveis de aprendizagem
 
 Os níveis **básico, intermediário e avançado** serão utilizados como referência para organizar o aprofundamento dos conteúdos e a complexidade das atividades.
 
@@ -729,7 +729,7 @@ A progressão deverá representar, sempre que possível, **aumento de compreens�
 
 ---
 
-## 11. Orientação e intervenção do professor
+## 10. Orientação e intervenção do professor
 
 A intervenção do professor deverá procurar desenvolver progressivamente a capacidade do aluno de resolver problemas e continuar aprendendo com maior autonomia.
 
@@ -761,7 +761,7 @@ O princípio central é oferecer **o apoio necessário para que o aluno consiga 
 
 ---
 
-## 12. Uso de recursos externos e Inteligência Artificial
+## 11. Uso de recursos externos e Inteligência Artificial
 
 O processo de aprendizagem poderá envolver diferentes recursos, como:
 
@@ -801,7 +801,7 @@ Enquanto este documento estabelece **como o processo de aprendizagem e avaliaç�
 
 ---
 
-## 13. Evidências de aprendizagem
+## 12. Evidências de aprendizagem
 
 A avaliação deverá considerar um conjunto de evidências capazes de demonstrar o desenvolvimento do aluno.
 
@@ -849,7 +849,7 @@ mas também:
 
 ---
 
-## 14. Feedback e recuperação da aprendizagem
+## 13. Feedback e recuperação da aprendizagem
 
 O feedback deverá fazer parte do processo de aprendizagem e não apenas indicar o resultado final de uma avaliação.
 
@@ -881,7 +881,7 @@ O objetivo da recuperação não é simplesmente substituir um resultado anterio
 
 ---
 
-## 15. Critérios gerais de avaliação
+## 14. Critérios gerais de avaliação
 
 Os critérios de avaliação deverão estar relacionados aos objetivos de aprendizagem da atividade.
 
@@ -933,7 +933,7 @@ Os critérios deverão ser conhecidos pelos alunos antes ou durante o desenvolvi
 
 ---
 
-## 16. Planejamento das atividades pelo professor
+## 15. Planejamento das atividades pelo professor
 
 Para favorecer a autonomia do aluno, as atividades deverão possuir objetivos e orientações suficientemente claros para que ele saiba o que precisa desenvolver sem depender continuamente de instruções do professor.
 
@@ -962,25 +962,16 @@ Isso reduz a necessidade de o professor repetir continuamente instruções opera
 
 ---
 
-## 17. Acompanhamento ao longo do período
+## 16. Acompanhamento ao longo do período
 
 A avaliação deverá ocorrer de forma contínua, utilizando diferentes momentos e evidências do processo de aprendizagem.
 
-O acompanhamento poderá considerar:
+O acompanhamento poderá considerar os registros no GitHub, através:
 
 * participação e desenvolvimento das atividades em laboratório;
-* M1;
-* M2;
-* M3;
-* apresentações;
-* arguições;
-* feedbacks;
 * revisões;
 * correções;
-* projetos;
 * histórico de desenvolvimento;
-* registros no GitHub;
-* portfólio;
 * demonstrações práticas;
 * outras evidências compatíveis com os objetivos da disciplina.
 
@@ -992,9 +983,11 @@ O acompanhamento ao longo do período permite identificar dificuldades antes que
 
 Também permite reconhecer evolução que poderia não ser percebida em uma avaliação realizada em um único momento.
 
+Também premite cobrar do aluno responsabilidades, participação no processo e mudanças comportamentais que favorecam a interação social. 
+
 ---
 
-## 18. Considerações finais
+## 17. Considerações finais
 
 O Modelo de Aprendizagem e Avaliação propõe uma mudança gradual na relação entre professor, aluno e atividade.
 
@@ -1031,18 +1024,9 @@ para:
 A menção permanece como parte necessária do processo de avaliação, mas a aprendizagem deve continuar sendo sua finalidade principal.
 
 
+## 18. Declaração de uso de Inteligência Artificial
 
-
-
-
-
-
-
-## 19. Declaração de uso de Inteligência Artificial deste documento
-
-Este documento também está sujeito aos princípios de **transparência, responsabilidade, verificação, domínio e proteção** estabelecidos na **Política de Uso de Inteligência Artificial em Atividades Acadêmicas**.
-
-Para sua elaboração, foi utilizada ferramenta de Inteligência Artificial como apoio ao planejamento, organização, desenvolvimento, revisão e análise do texto.
+Para elaboração deste documento, foi utilizada ferramenta de Inteligência Artificial como apoio ao planejamento, organização, desenvolvimento, revisão e análise do texto.
 
 ### DECLARAÇÃO DE USO DE INTELIGÊNCIA ARTIFICIAL
 
