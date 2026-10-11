@@ -147,3 +147,6 @@ Você receberá um pedido genérico e deverá transformá-lo em uma conversa út
 E lembre-se:
 
 > **Se você não entendeu a resposta, a conversa ainda não terminou.**
+
+
+![IA sem Fórmula Mágica](assets/banners/index-banner.png)
