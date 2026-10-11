@@ -149,4 +149,4 @@ E lembre-se:
 > **Se você não entendeu a resposta, a conversa ainda não terminou.**
 
 
-![IA sem Fórmula Mágica](assets/banners/index-banner.png)
+[![IA sem Fórmula Mágica](assets/banners/index-banner.png)](00-ia-nao-e-magica.md)
