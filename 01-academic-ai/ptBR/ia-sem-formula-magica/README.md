@@ -207,7 +207,6 @@ Quando possível e permitido, utilizar uma conta pode facilitar a organização 
         ├── 04-continue-a-conversa.md
         ├── 05-verifique-e-decida.md
         ├── desafio-final.md
-        ├── materiais/
         └── assets/
 ```
 

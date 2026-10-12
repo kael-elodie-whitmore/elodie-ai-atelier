@@ -434,3 +434,6 @@ Mas existe uma etapa que nunca deve ser esquecida:
 [Ir para a Missão 5 — Verifique e decida](05-verifique-e-decida.md)
 
 [Voltar para o início](index.md)
+
+
+[![IA sem Fórmula Mágica](assets/posters/04-continue-a-conversa.png)](05-verifique-e-decida.md)

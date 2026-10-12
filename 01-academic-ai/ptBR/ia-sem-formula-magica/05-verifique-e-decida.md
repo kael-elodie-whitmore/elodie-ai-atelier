@@ -552,3 +552,5 @@ Agora falta juntar tudo isso em uma situação completa.
 [Ir para o Desafio Final](desafio-final.md)
 
 [Voltar para o início](index.md)
+
+[![IA sem Fórmula Mágica](assets/posters/05-verifique-e-decida.png)](desafio-final.md)

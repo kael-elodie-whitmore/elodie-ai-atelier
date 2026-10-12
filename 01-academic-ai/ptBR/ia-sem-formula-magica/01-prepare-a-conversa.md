@@ -304,3 +304,5 @@ Agora que o espaço de trabalho está organizado, precisamos aprender a fornecer
 [Ir para a Missão 2 — Dê contexto](02-de-contexto.md)
 
 [Voltar para o início](index.md)
+
+[![IA sem Fórmula Mágica](assets/posters/01-prepare-a-conversa.png)](02-de-contexto.md)

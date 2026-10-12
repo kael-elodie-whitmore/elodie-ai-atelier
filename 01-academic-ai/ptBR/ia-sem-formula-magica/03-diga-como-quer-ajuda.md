@@ -400,3 +400,6 @@ Agora vem uma etapa essencial:
 [Ir para a Missão 4 — Continue a conversa](04-continue-a-conversa.md)
 
 [Voltar para o início](index.md)
+
+
+[![IA sem Fórmula Mágica](assets/posters/03-diga-como-quer-ajuda.png)](04-continue-a-conversa.md)

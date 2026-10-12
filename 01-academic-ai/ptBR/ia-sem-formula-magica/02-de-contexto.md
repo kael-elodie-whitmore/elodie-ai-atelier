@@ -354,3 +354,5 @@ Agora que a IA sabe melhor o que está acontecendo, falta uma decisão important
 [Ir para a Missão 3 — Diga como quer ajuda](03-diga-como-quer-ajuda.md)
 
 [Voltar para o início](index.md)
+
+[![IA sem Fórmula Mágica](assets/posters/02-de-contexto.png)](03-diga-como-quer-ajuda.md)

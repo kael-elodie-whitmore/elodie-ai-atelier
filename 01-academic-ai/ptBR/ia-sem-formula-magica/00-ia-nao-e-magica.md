@@ -256,3 +256,5 @@ Na próxima etapa, vamos preparar melhor o ambiente de trabalho e entender por q
 [Ir para a Missão 1 — Prepare a conversa](01-prepare-a-conversa.md)
 
 [Voltar para o início](index.md)
+
+[![IA sem Fórmula Mágica](assets/posters/00-ia-nao-e-magica.png)](01-prepare-a-conversa.md)

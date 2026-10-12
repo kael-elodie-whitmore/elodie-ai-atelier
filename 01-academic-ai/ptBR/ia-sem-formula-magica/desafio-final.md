@@ -248,3 +248,4 @@ Precisa continuar praticando:
 > **Aprender a usar IA é aprender a conversar, verificar e decidir.**
 
 [Voltar para o início](index.md)
+![IA sem Fórmula Mágica](assets/posters/desafio-final.png)
